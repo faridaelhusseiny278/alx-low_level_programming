@@ -13,9 +13,9 @@ while (s[i] != '\0')
 {
 i++;
 }
-for (i = i ; j > 0; j--)
+for (i = i ; i > 0; i--)
 {
-	_putchar(s[j]);
+	_putchar(s[i]);
 }
 _putchar('\n');
 }
