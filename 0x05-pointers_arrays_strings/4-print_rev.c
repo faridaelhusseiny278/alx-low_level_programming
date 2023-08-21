@@ -13,7 +13,6 @@ while (s[i] != '\0')
 {
 i++;
 }
-
 int j;
 j = 0;
 for (j = i ; j > 0; j--)
